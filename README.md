@@ -2,4 +2,4 @@
 
 ## Função para download de imagens do FaceForensics
 
-![Descrição](img-readme\Description.png)
+<img src="img-readme/Description.png" alt="Descrição" width="500" />
